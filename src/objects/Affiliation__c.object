@@ -47,6 +47,7 @@
         <relationshipLabel>Organization Affiliations</relationshipLabel>
         <relationshipName>Affiliations</relationshipName>
         <relationshipOrder>1</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
         <writeRequiresMasterRead>false</writeRequiresMasterRead>
@@ -79,6 +80,7 @@
         <relationshipLabel>Affiliated Contacts</relationshipLabel>
         <relationshipName>Affiliations</relationshipName>
         <relationshipOrder>0</relationshipOrder>
+        <reparentableMasterDetail>false</reparentableMasterDetail>
         <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
         <writeRequiresMasterRead>false</writeRequiresMasterRead>
