@@ -10,14 +10,14 @@
     <labels>
         <fullName>DefaultCurrentStatus</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>DefaultCurrentStatus</shortDescription>
         <value>Current</value>
     </labels>
     <labels>
         <fullName>DefaultFormerStatus</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>DefaultFormerStatus</shortDescription>
         <value>Former</value>
     </labels>
