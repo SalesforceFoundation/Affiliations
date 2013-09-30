@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
     </types>
     <types>
         <members>*</members>
@@ -14,20 +18,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>CustomLabels</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CustomTab</name>
-    </types>
-    <types>
-        <members>Affiliation__c-Affiliation Layout</members>
-        <name>Layout</name>
+        <name>StaticResource</name>
     </types>
     <version>28.0</version>
 </Package>
-
