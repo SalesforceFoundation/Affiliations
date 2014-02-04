@@ -11,6 +11,14 @@ This is the Affiliations package.
 
 For more information go to [http://nonprofitstarterpack.org](http://nonprofitstarterpack.org) 
 
+How do I log an issue?
+---
+
+Issue logging for the Nonprofit Starter Pack has moved!  All issues for the Affiliations package should now be logged [here](https://github.com/SalesforceFoundation/Cumulus/issues/new).  
+All existing open issues have been moved to the new location.
+
+If your issue applies to older versions of the stand-alone Affiliations package, please post them directly to the [Power of Us Hub](powerofus.force.com/PUBlogin)
+
 Installation
 ---
 
