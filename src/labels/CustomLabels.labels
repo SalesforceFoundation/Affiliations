@@ -3,7 +3,7 @@
     <labels>
         <fullName>Automatic_Affiliation_Help_Text</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>Automatic Affiliation Help Text</shortDescription>
         <value>Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.</value>
     </labels>
