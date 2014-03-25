@@ -25,12 +25,6 @@ Installation
 * The master branch contain the most current release available via managed package
 * The dev branch contains the development source for the next major Recurring Donations release
 
-
-Release Notes
----
-Available [here](https://github.com/SalesforceFoundation/Recurring_Donations/wiki/Release-Notes)
-
-
 Meta
 ----
 
