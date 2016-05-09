@@ -9,8 +9,8 @@
         <value><!-- Affiliations Settings --></value>
     </caseValues>
     <fields>
-        <help><!-- Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed. --></help>
-        <label><!-- Automatic Affiliation Management --></label>
+        <help>Crear o actualizar afiliaciones para contactos relacionados a cuentas cuando se modifica el campo de Cuenta o el campo de Afiliación principal.</help>
+        <label>Automatización de afiliaciones</label>
         <name>Automatic_Affiliation_Creation_Turned_On__c</name>
     </fields>
     <gender><!-- Feminine --></gender>
