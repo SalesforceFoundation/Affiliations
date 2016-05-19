@@ -27,8 +27,8 @@
         <relationshipLabel>Contactos afiliados</relationshipLabel>
     </fields>
     <fields>
-        <help><!-- If checked, the Affiliation&apos;s Organization will be stored on the Contact record. --></help>
-        <label><!-- Primary --></label>
+        <help>Si se selecciona, la cuenta en la afiliación se guardará en el contacto.</help>
+        <label>Principal</label>
         <name>Primary__c</name>
     </fields>
     <fields>
@@ -44,11 +44,11 @@
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation>Vigente</translation>
+            <translation>Actual</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation>Antiguo</translation>
+            <translation>Anterior</translation>
         </picklistValues>
     </fields>
     <gender><!-- Feminine --></gender>
