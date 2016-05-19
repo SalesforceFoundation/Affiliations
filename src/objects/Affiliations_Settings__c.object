@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <customSettingsType>Hierarchy</customSettingsType>
-    <customSettingsVisibility>Public</customSettingsVisibility>
     <description>Settings for controlling the Affiliations Package of the Nonprofit Starter Pack</description>
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Automatic_Affiliation_Creation_Turned_On__c</fullName>
         <defaultValue>false</defaultValue>
-        <deprecated>false</deprecated>
         <description>Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.</description>
         <externalId>false</externalId>
         <inlineHelpText>Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.</inlineHelpText>
@@ -16,4 +14,5 @@
         <type>Checkbox</type>
     </fields>
     <label>Affiliations Settings</label>
+    <visibility>Public</visibility>
 </CustomObject>
