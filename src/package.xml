@@ -32,9 +32,11 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Affiliation__c-de</members>
         <members>Affiliation__c-en_US</members>
         <members>Affiliation__c-es</members>
         <members>Affiliation__c-fr</members>
+        <members>Affiliations_Settings__c-de</members>
         <members>Affiliations_Settings__c-en_US</members>
         <members>Affiliations_Settings__c-es</members>
         <members>Affiliations_Settings__c-fr</members>
@@ -49,6 +51,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>de</members>
         <members>es</members>
         <members>fr</members>
         <name>Translations</name>
