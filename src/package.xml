@@ -36,10 +36,12 @@
         <members>Affiliation__c-en_US</members>
         <members>Affiliation__c-es</members>
         <members>Affiliation__c-fr</members>
+        <members>Affiliation__c-ja</members>
         <members>Affiliations_Settings__c-de</members>
         <members>Affiliations_Settings__c-en_US</members>
         <members>Affiliations_Settings__c-es</members>
         <members>Affiliations_Settings__c-fr</members>
+        <members>Affiliations_Settings__c-ja</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
@@ -54,6 +56,7 @@
         <members>de</members>
         <members>es</members>
         <members>fr</members>
+        <members>ja</members>
         <name>Translations</name>
     </types>
     <version>36.0</version>
