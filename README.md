@@ -9,7 +9,7 @@ This is the Affiliations package.
 * Provides an object and logic to connect Contacts to multiple Accounts
 
 
-For more information go to [http://nonprofitstarterpack.org](http://nonprofitstarterpack.org) 
+For more information go to [http://www.salesforce.org/nonprofit/nonprofit-success-pack](http://www.salesforce.org/nonprofit/nonprofit-success-pack) 
 
 How do I log an issue?
 ---
