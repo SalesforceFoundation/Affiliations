@@ -4,58 +4,53 @@
         <plural>false</plural>
         <value><!-- Affiliation --></value>
     </caseValues>
-    <caseValues>
-        <plural>true</plural>
-        <value><!-- Affiliation --></value>
-    </caseValues>
     <fields>
-        <label>Contacto</label>
+        <label>個人</label>
         <name>Contact__c</name>
-        <relationshipLabel>Afiliaciones de la organización</relationshipLabel>
+        <relationshipLabel>関係する団体</relationshipLabel>
     </fields>
     <fields>
-        <label>Descripción</label>
+        <label>説明</label>
         <name>Description__c</name>
     </fields>
     <fields>
-        <label>Día de finalización</label>
+        <label>終了日</label>
         <name>EndDate__c</name>
     </fields>
     <fields>
-        <label>Cuenta</label>
+        <label>団体</label>
         <name>Organization__c</name>
-        <relationshipLabel>Contactos afiliados</relationshipLabel>
+        <relationshipLabel>関係する個人</relationshipLabel>
     </fields>
     <fields>
-        <help>Si se selecciona, la cuenta en la afiliación se guardará en el contacto.</help>
-        <label>Principal</label>
+        <help>オンの場合、アフィリエーション団体は個人レコードに保存されます。</help>
+        <label>主</label>
         <name>Primary__c</name>
     </fields>
     <fields>
-        <label>Rol</label>
+        <label>役割</label>
         <name>Role__c</name>
     </fields>
     <fields>
-        <label>Día de inicio</label>
+        <label>開始日</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
-        <label>Estado</label>
+        <label>状況</label>
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation>Actual</translation>
+            <translation>現在</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation>Anterior</translation>
+            <translation>以前</translation>
         </picklistValues>
     </fields>
-    <gender><!-- Feminine --></gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label>Información de la afiliación</label>
+            <label>アフィリエーション情報</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
