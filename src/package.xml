@@ -24,7 +24,8 @@
         <name>CustomLabel</name>
     </types>
     <types>
-        <name>CustomLabel</name>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
     </types>
     <types>
         <members>Affiliation__c</members>
@@ -53,5 +54,5 @@
         <members>fr</members>
         <name>Translations</name>
     </types>
-    <version>29.0</version>
+    <version>36.0</version>
 </Package>
