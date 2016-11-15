@@ -1,0 +1,8 @@
+project:
+    name: Affiliations
+    package:
+        name: Affiliations
+        namespace: npe5
+        api_version: 36.0
+    git:
+        release: rel/
