@@ -1,0 +1,24 @@
+Language code: de
+Type: Bilingual
+
+------------------TRANSLATED-------------------
+
+CustomField.Affiliation__c.Contact.FieldLabel	Contact	Kontakt	-
+CustomField.Affiliation__c.Contact.RelatedListLabel	Organization Affiliations	Organisationszugehörigkeiten	-
+CustomField.Affiliation__c.Description.FieldLabel	Description	Beschreibung	-
+CustomField.Affiliation__c.EndDate.FieldLabel	End Date	Enddatum	-
+CustomField.Affiliation__c.Organization.FieldLabel	Organization	Organisation	-
+CustomField.Affiliation__c.Organization.RelatedListLabel	Affiliated Contacts	Verbundene Kontakte	-
+CustomField.Affiliation__c.Primary.FieldLabel	Primary	Primär	-
+CustomField.Affiliation__c.Primary.HelpText	If checked, the Affiliation's Organization will be stored on the Contact record.	Bei Aktivierung wird die Organisation der Zugehörigkeit im Kontaktdatensatz gespeichert.	-
+CustomField.Affiliation__c.Role.FieldLabel	Role	Rolle	-
+CustomField.Affiliation__c.StartDate.FieldLabel	Start Date	Startdatum	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.FieldLabel	Automatic Affiliation Management	Autom. Verwaltung der Zugehörigkeiten	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.HelpText	Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.	Erstellen oder aktualisieren Sie Zugehörigkeiten für Kontakte, die mit den Organisation-Accounts verbunden sind, wenn in deren Feldern "Organisation" oder "Primäre Zugehörigkeit" Änderungen vorgenommen werden.	-
+LayoutSection.Affiliation__c.Affiliation Layout.Affiliation Information_0	Affiliation Information	Zugehörigkeitsinformationen	-
+PicklistValue.Affiliation__c.Status.Current	Current	Aktuell	-
+PicklistValue.Affiliation__c.Status.Former	Former	Früher	-
+WebTab.Affiliations_Settings	Affiliations Settings	Zugehörigkeitseinstellungen	-
+CustomLabel.Automatic_Affiliation_Help_Text	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	Aktivieren Sie dieses Kontrollkästchen, damit die Kontakte automatische Zugehörigkeiten erhalten, wenn Sie mit einer Beziehung zu einem Account erstellt werden.	-
+CustomLabel.DefaultCurrentStatus	Current	Aktuell	-
+CustomLabel.DefaultFormerStatus	Former	Früher	-

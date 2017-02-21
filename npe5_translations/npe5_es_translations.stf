@@ -1,0 +1,25 @@
+Language code: es
+Type: Bilingual
+
+------------------TRANSLATED-------------------
+
+CustomField.Affiliation__c.Contact.FieldLabel	Contact	Contacto	-
+CustomField.Affiliation__c.Contact.RelatedListLabel	Organization Affiliations	Afiliaciones de la organización	-
+CustomField.Affiliation__c.Description.FieldLabel	Description	Descripción	-
+CustomField.Affiliation__c.EndDate.FieldLabel	End Date	Día de finalización	-
+CustomField.Affiliation__c.Organization.FieldLabel	Organization	Cuenta	-
+CustomField.Affiliation__c.Organization.RelatedListLabel	Affiliated Contacts	Contactos afiliados	-
+CustomField.Affiliation__c.Primary.FieldLabel	Primary	Principal	-
+CustomField.Affiliation__c.Primary.HelpText	If checked, the Affiliation's Organization will be stored on the Contact record.	Si se selecciona, la cuenta en la afiliación se guardará en el contacto.	-
+CustomField.Affiliation__c.Role.FieldLabel	Role	Rol	-
+CustomField.Affiliation__c.StartDate.FieldLabel	Start Date	Día de inicio	-
+CustomField.Affiliation__c.Status.FieldLabel	Status	Estado	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.FieldLabel	Automatic Affiliation Management	Automatización de afiliaciones	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.HelpText	Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.	Crear o actualizar afiliaciones para contactos relacionados a cuentas cuando se modifica el campo de Cuenta o el campo de Afiliación principal.	-
+LayoutSection.Affiliation__c.Affiliation Layout.Affiliation Information_0	Affiliation Information	Información de la afiliación	-
+PicklistValue.Affiliation__c.Status.Current	Current	Vigente	-
+PicklistValue.Affiliation__c.Status.Former	Former	Antiguo	-
+WebTab.Affiliations_Settings	Affiliations Settings	Ajustes de Afiliaciones	-
+CustomLabel.Automatic_Affiliation_Help_Text	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	Haga click en esta casilla para que los contactos reciban automáticamente una afiliación cuando son creados con una relación a una Cuenta.	-
+CustomLabel.DefaultCurrentStatus	Current	Actual	-
+CustomLabel.DefaultFormerStatus	Former	Anterior	-

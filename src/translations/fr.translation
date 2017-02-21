@@ -13,7 +13,7 @@
         <name>DefaultFormerStatus</name>
     </customLabels>
     <customTabs>
-        <label><!-- Affiliations Settings --></label>
+        <label>Paramètres d’affiliation</label>
         <name>Affiliations_Settings</name>
     </customTabs>
 </Translations>

@@ -44,11 +44,11 @@
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation>Actual</translation>
+            <translation>Vigente</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation>Anterior</translation>
+            <translation>Antiguo</translation>
         </picklistValues>
     </fields>
     <gender><!-- Feminine --></gender>

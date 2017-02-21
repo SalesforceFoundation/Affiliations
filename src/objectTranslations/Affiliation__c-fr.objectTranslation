@@ -27,8 +27,8 @@
         <relationshipLabel>Contacts affiliés</relationshipLabel>
     </fields>
     <fields>
-        <help><!-- If checked, the Affiliation&apos;s Organization will be stored on the Contact record. --></help>
-        <label><!-- Primary --></label>
+        <help>Si coché, l’organisation de l’affiliation sera stockée sur l’enregistrement du contact.</help>
+        <label>Principal</label>
         <name>Primary__c</name>
     </fields>
     <fields>
@@ -44,11 +44,11 @@
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation><!-- Current --></translation>
+            <translation>Actuel</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation><!-- Former --></translation>
+            <translation>Précédent</translation>
         </picklistValues>
     </fields>
     <gender><!-- Masculine --></gender>
