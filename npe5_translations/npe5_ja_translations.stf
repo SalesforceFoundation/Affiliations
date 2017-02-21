@@ -1,0 +1,25 @@
+Language code: ja
+Type: Bilingual
+
+------------------TRANSLATED-------------------
+
+CustomField.Affiliation__c.Contact.FieldLabel	Contact	個人	-
+CustomField.Affiliation__c.Contact.RelatedListLabel	Organization Affiliations	関係する団体	-
+CustomField.Affiliation__c.Description.FieldLabel	Description	説明	-
+CustomField.Affiliation__c.EndDate.FieldLabel	End Date	終了日	-
+CustomField.Affiliation__c.Organization.FieldLabel	Organization	団体	-
+CustomField.Affiliation__c.Organization.RelatedListLabel	Affiliated Contacts	関係する個人	-
+CustomField.Affiliation__c.Primary.FieldLabel	Primary	主	-
+CustomField.Affiliation__c.Primary.HelpText	If checked, the Affiliation's Organization will be stored on the Contact record.	オンの場合、アフィリエーション団体は個人レコードに保存されます。	-
+CustomField.Affiliation__c.Role.FieldLabel	Role	役割	-
+CustomField.Affiliation__c.StartDate.FieldLabel	Start Date	開始日	-
+CustomField.Affiliation__c.Status.FieldLabel	Status	状況	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.FieldLabel	Automatic Affiliation Management	自動アフィリエーション管理	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.HelpText	Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.	団体項目または主アフィリエーション項目が変更されたときに、組織団体に結び付けられている個人のアフィリエーションを作成または更新します。	-
+LayoutSection.Affiliation__c.Affiliation Layout.Affiliation Information_0	Affiliation Information	アフィリエーション情報	-
+PicklistValue.Affiliation__c.Status.Current	Current	現在	-
+PicklistValue.Affiliation__c.Status.Former	Former	以前	-
+WebTab.Affiliations_Settings	Affiliations Settings	アフィリエーション設定	-
+CustomLabel.Automatic_Affiliation_Help_Text	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	このボックスをオンにすると、個人が団体とのリレーションと共に作成されたときに自動アフィリエーションが適用されます。	-
+CustomLabel.DefaultCurrentStatus	Current	現在	-
+CustomLabel.DefaultFormerStatus	Former	以前	-

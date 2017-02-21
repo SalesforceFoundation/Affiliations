@@ -1,0 +1,25 @@
+Language code: iw
+Type: Bilingual
+
+------------------TRANSLATED-------------------
+
+CustomField.Affiliation__c.Contact.FieldLabel	Contact	איש קשר	-
+CustomField.Affiliation__c.Contact.RelatedListLabel	Organization Affiliations	השתייכות לארגונים	-
+CustomField.Affiliation__c.Description.FieldLabel	Description	תיאור	-
+CustomField.Affiliation__c.EndDate.FieldLabel	End Date	תאריך סיום	-
+CustomField.Affiliation__c.Organization.FieldLabel	Organization	ארגון	-
+CustomField.Affiliation__c.Organization.RelatedListLabel	Affiliated Contacts	אנשי קשר משתייכים	-
+CustomField.Affiliation__c.Primary.FieldLabel	Primary	ראשי	-
+CustomField.Affiliation__c.Primary.HelpText	If checked, the Affiliation's Organization will be stored on the Contact record.	אם אפשרות זו מסומנת, הארגון של הגורם המשתייך יישמר ברשומה של איש הקשר.	-
+CustomField.Affiliation__c.Role.FieldLabel	Role	תפקיד	-
+CustomField.Affiliation__c.StartDate.FieldLabel	Start Date	תאריך התחלה	-
+CustomField.Affiliation__c.Status.FieldLabel	Status	מצב	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.FieldLabel	Automatic Affiliation Management	ניהול השתייכויות אוטומטי	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.HelpText	Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.	צור או עדכן השתייכויות עבור אנשי קשר הקשורים לחשבונות ארגוניים, כאשר שדה הארגון או ההשתייכות הראשית שלהם עובר שינוי.	-
+LayoutSection.Affiliation__c.Affiliation Layout.Affiliation Information_0	Affiliation Information	פרטי השתייכות	-
+PicklistValue.Affiliation__c.Status.Current	Current	נוכחי	-
+PicklistValue.Affiliation__c.Status.Former	Former	קודם	-
+WebTab.Affiliations_Settings	Affiliations Settings	הגדרות השתייכות	-
+CustomLabel.Automatic_Affiliation_Help_Text	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	סמן תיבה זו כדי להעניק לאנשי קשר השתייכות אוטומטית כאשר הם נוצרים עם קשר לחשבון.	-
+CustomLabel.DefaultCurrentStatus	Current	נוכחי	-
+CustomLabel.DefaultFormerStatus	Former	קודם	-

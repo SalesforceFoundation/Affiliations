@@ -1,0 +1,25 @@
+Language code: fr
+Type: Bilingual
+
+------------------TRANSLATED-------------------
+
+CustomField.Affiliation__c.Contact.FieldLabel	Contact	Contact	-
+CustomField.Affiliation__c.Contact.RelatedListLabel	Organization Affiliations	Affiliations de l'Organisation	-
+CustomField.Affiliation__c.Description.FieldLabel	Description	Description	-
+CustomField.Affiliation__c.EndDate.FieldLabel	End Date	Date de fin	-
+CustomField.Affiliation__c.Organization.FieldLabel	Organization	Compte	-
+CustomField.Affiliation__c.Organization.RelatedListLabel	Affiliated Contacts	Contacts affiliés	-
+CustomField.Affiliation__c.Primary.FieldLabel	Primary	Principal	-
+CustomField.Affiliation__c.Primary.HelpText	If checked, the Affiliation's Organization will be stored on the Contact record.	Si coché, l’organisation de l’affiliation sera stockée sur l’enregistrement du contact.	-
+CustomField.Affiliation__c.Role.FieldLabel	Role	Rôle	-
+CustomField.Affiliation__c.StartDate.FieldLabel	Start Date	Date de début	-
+CustomField.Affiliation__c.Status.FieldLabel	Status	Statut	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.FieldLabel	Automatic Affiliation Management	Gestion automatique d’affiliation	-
+CustomField.Affiliations_Settings__c.Automatic_Affiliation_Creation_Turned_On.HelpText	Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed.	Crée ou met à jour des affiliations pour les contacts connectés aux comptes d’organisation lorsque leur champ d’organisation ou d’affiliation principale est modifié.	-
+LayoutSection.Affiliation__c.Affiliation Layout.Affiliation Information_0	Affiliation Information	Information de l'affiliation	-
+PicklistValue.Affiliation__c.Status.Current	Current	Actuel	-
+PicklistValue.Affiliation__c.Status.Former	Former	Précédent	-
+WebTab.Affiliations_Settings	Affiliations Settings	Paramètres d’affiliation	-
+CustomLabel.Automatic_Affiliation_Help_Text	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.	-
+CustomLabel.DefaultCurrentStatus	Current	Current	-
+CustomLabel.DefaultFormerStatus	Former	Former	-
