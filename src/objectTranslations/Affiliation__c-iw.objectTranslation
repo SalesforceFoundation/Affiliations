@@ -21,53 +21,53 @@
         <value><!-- הAffiliation --></value>
     </caseValues>
     <fields>
-        <label><!-- Contact --></label>
+        <label>איש קשר</label>
         <name>Contact__c</name>
-        <relationshipLabel><!-- Organization Affiliations --></relationshipLabel>
+        <relationshipLabel>השתייכות לארגונים</relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Description --></label>
+        <label>תיאור</label>
         <name>Description__c</name>
     </fields>
     <fields>
-        <label><!-- End Date --></label>
+        <label>תאריך סיום</label>
         <name>EndDate__c</name>
     </fields>
     <fields>
-        <label><!-- Organization --></label>
+        <label>ארגון</label>
         <name>Organization__c</name>
-        <relationshipLabel><!-- Affiliated Contacts --></relationshipLabel>
+        <relationshipLabel>אנשי קשר משתייכים</relationshipLabel>
     </fields>
     <fields>
-        <help><!-- If checked, the Affiliation&apos;s Organization will be stored on the Contact record. --></help>
-        <label><!-- Primary --></label>
+        <help>אם אפשרות זו מסומנת, הארגון של הגורם המשתייך יישמר ברשומה של איש הקשר.</help>
+        <label>ראשי</label>
         <name>Primary__c</name>
     </fields>
     <fields>
-        <label><!-- Role --></label>
+        <label>תפקיד</label>
         <name>Role__c</name>
     </fields>
     <fields>
-        <label><!-- Start Date --></label>
+        <label>תאריך התחלה</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
-        <label><!-- Status --></label>
+        <label>מצב</label>
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation><!-- Current --></translation>
+            <translation>נוכחי</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation><!-- Former --></translation>
+            <translation>קודם</translation>
         </picklistValues>
     </fields>
     <gender><!-- Masculine --></gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label><!-- Affiliation Information --></label>
+            <label>פרטי השתייכות</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
