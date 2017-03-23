@@ -9,8 +9,8 @@
         <value><!-- Affiliations Settings --></value>
     </caseValues>
     <fields>
-        <help><!-- Create or update Affiliations for Contacts connected to Organization Accounts when their Organization field or Primary Affiliation field is changed. --></help>
-        <label><!-- Automatic Affiliation Management --></label>
+        <help>Maak of update Connecties voor Contactpersonen verwant aan een Organisatie Account waar hun Organisatie veld of Primaire Connectie veld is veranderd</help>
+        <label>Automatisch Connectie Management</label>
         <name>Automatic_Affiliation_Creation_Turned_On__c</name>
     </fields>
     <gender><!-- Neuter --></gender>

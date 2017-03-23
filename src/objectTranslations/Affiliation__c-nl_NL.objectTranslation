@@ -11,32 +11,32 @@
     <fields>
         <label><!-- Contact --></label>
         <name>Contact__c</name>
-        <relationshipLabel><!-- Organization Affiliations --></relationshipLabel>
+        <relationshipLabel>Verwante Organisaties</relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Description --></label>
+        <label>Beschrijving</label>
         <name>Description__c</name>
     </fields>
     <fields>
-        <label><!-- End Date --></label>
+        <label>Eind Datum</label>
         <name>EndDate__c</name>
     </fields>
     <fields>
-        <label><!-- Organization --></label>
+        <label>Organisatie</label>
         <name>Organization__c</name>
-        <relationshipLabel><!-- Affiliated Contacts --></relationshipLabel>
+        <relationshipLabel>Verwante Contactpersonen</relationshipLabel>
     </fields>
     <fields>
-        <help><!-- If checked, the Affiliation&apos;s Organization will be stored on the Contact record. --></help>
-        <label><!-- Primary --></label>
+        <help>Indien aangevinkt, zal de verwante organisatie opgeslagen worden op het Contactpersoon record.</help>
+        <label>Primair</label>
         <name>Primary__c</name>
     </fields>
     <fields>
-        <label><!-- Role --></label>
+        <label>Rol</label>
         <name>Role__c</name>
     </fields>
     <fields>
-        <label><!-- Start Date --></label>
+        <label>Start Datum</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
@@ -55,7 +55,7 @@
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label><!-- Affiliation Information --></label>
+            <label>Connectie Informatie</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
