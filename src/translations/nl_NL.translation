@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label><!-- Automatic Affiliation Help Text --></label>
+        <name>Automatic_Affiliation_Help_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DefaultCurrentStatus --></label>
+        <name>DefaultCurrentStatus</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- DefaultFormerStatus --></label>
+        <name>DefaultFormerStatus</name>
+    </customLabels>
+    <customTabs>
+        <label>Connecties Instellingen</label>
+        <name>Affiliations_Settings</name>
+    </customTabs>
+</Translations>

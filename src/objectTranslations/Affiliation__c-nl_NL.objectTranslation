@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Affiliation --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Affiliation --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel>Verwante Organisaties</relationshipLabel>
+    </fields>
+    <fields>
+        <label>Beschrijving</label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label>Eind Datum</label>
+        <name>EndDate__c</name>
+    </fields>
+    <fields>
+        <label>Organisatie</label>
+        <name>Organization__c</name>
+        <relationshipLabel>Verwante Contactpersonen</relationshipLabel>
+    </fields>
+    <fields>
+        <help>Indien aangevinkt, zal de verwante organisatie opgeslagen worden op het Contactpersoon record.</help>
+        <label>Primair</label>
+        <name>Primary__c</name>
+    </fields>
+    <fields>
+        <label>Rol</label>
+        <name>Role__c</name>
+    </fields>
+    <fields>
+        <label>Start Datum</label>
+        <name>StartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Status --></label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Current</masterLabel>
+            <translation><!-- Current --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Former</masterLabel>
+            <translation><!-- Former --></translation>
+        </picklistValues>
+    </fields>
+    <gender><!-- Neuter --></gender>
+    <layouts>
+        <layout>Affiliation Layout</layout>
+        <sections>
+            <label>Connectie Informatie</label>
+            <section>Affiliation Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
+</CustomObjectTranslation>
