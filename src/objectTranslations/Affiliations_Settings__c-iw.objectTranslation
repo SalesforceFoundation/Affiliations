@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value><!-- Affiliations Settings --></value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>false</plural>
+        <value><!-- הAffiliations Settings --></value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value><!-- Affiliations Settings --></value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>true</plural>
+        <value><!-- הAffiliations Settings --></value>
+    </caseValues>
+    <fields>
+        <help>צור או עדכן השתייכויות עבור אנשי קשר הקשורים לחשבונות ארגוניים, כאשר שדה הארגון או ההשתייכות הראשית שלהם עובר שינוי.</help>
+        <label>ניהול השתייכויות אוטומטי</label>
+        <name>Automatic_Affiliation_Creation_Turned_On__c</name>
+    </fields>
+    <gender><!-- Masculine --></gender>
+</CustomObjectTranslation>

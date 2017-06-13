@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value><!-- Affiliation --></value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>false</plural>
+        <value><!-- הAffiliation --></value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value><!-- Affiliation --></value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>true</plural>
+        <value><!-- הAffiliation --></value>
+    </caseValues>
+    <fields>
+        <label>איש קשר</label>
+        <name>Contact__c</name>
+        <relationshipLabel>השתייכות לארגונים</relationshipLabel>
+    </fields>
+    <fields>
+        <label>תיאור</label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label>תאריך סיום</label>
+        <name>EndDate__c</name>
+    </fields>
+    <fields>
+        <label>ארגון</label>
+        <name>Organization__c</name>
+        <relationshipLabel>אנשי קשר משתייכים</relationshipLabel>
+    </fields>
+    <fields>
+        <help>אם אפשרות זו מסומנת, הארגון של הגורם המשתייך יישמר ברשומה של איש הקשר.</help>
+        <label>ראשי</label>
+        <name>Primary__c</name>
+    </fields>
+    <fields>
+        <label>תפקיד</label>
+        <name>Role__c</name>
+    </fields>
+    <fields>
+        <label>תאריך התחלה</label>
+        <name>StartDate__c</name>
+    </fields>
+    <fields>
+        <label>מצב</label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Current</masterLabel>
+            <translation>נוכחי</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Former</masterLabel>
+            <translation>קודם</translation>
+        </picklistValues>
+    </fields>
+    <gender><!-- Masculine --></gender>
+    <layouts>
+        <layout>Affiliation Layout</layout>
+        <sections>
+            <label>פרטי השתייכות</label>
+            <section>Affiliation Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
+</CustomObjectTranslation>

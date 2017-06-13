@@ -41,12 +41,14 @@
         <members>Affiliation__c-en_US</members>
         <members>Affiliation__c-es</members>
         <members>Affiliation__c-fr</members>
+        <members>Affiliation__c-iw</members>
         <members>Affiliation__c-ja</members>
         <members>Affiliation__c-nl_NL</members>
         <members>Affiliations_Settings__c-de</members>
         <members>Affiliations_Settings__c-en_US</members>
         <members>Affiliations_Settings__c-es</members>
         <members>Affiliations_Settings__c-fr</members>
+        <members>Affiliations_Settings__c-iw</members>
         <members>Affiliations_Settings__c-ja</members>
         <members>Affiliations_Settings__c-nl_NL</members>
         <name>CustomObjectTranslation</name>
@@ -63,6 +65,7 @@
         <members>de</members>
         <members>es</members>
         <members>fr</members>
+        <members>iw</members>
         <members>ja</members>
         <members>nl_NL</members>
         <name>Translations</name>
