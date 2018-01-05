@@ -9,7 +9,7 @@
         <value><!-- Affiliations Settings --></value>
     </caseValues>
     <fields>
-        <help>Maak of update Connecties voor Contactpersonen verwant aan een Organisatie Account waar hun Organisatie veld of Primaire Connectie veld is veranderd</help>
+        <help>Maak of update Connecties voor Contactpersonen verwant aan een Organisatie Account waar hun Organisatie veld of Primaire Connectie veld is veranderd.</help>
         <label>Automatisch Connectie Management</label>
         <name>Automatic_Affiliation_Creation_Turned_On__c</name>
     </fields>
