@@ -5,11 +5,11 @@
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label>Actual</label>
+        <label>Current</label>
         <name>DefaultCurrentStatus</name>
     </customLabels>
     <customLabels>
-        <label>Anterior</label>
+        <label>Former</label>
         <name>DefaultFormerStatus</name>
     </customLabels>
     <customTabs>

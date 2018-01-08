@@ -5,11 +5,11 @@
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label>現在</label>
+        <label>Current</label>
         <name>DefaultCurrentStatus</name>
     </customLabels>
     <customLabels>
-        <label>以前</label>
+        <label>Former</label>
         <name>DefaultFormerStatus</name>
     </customLabels>
     <customTabs>
