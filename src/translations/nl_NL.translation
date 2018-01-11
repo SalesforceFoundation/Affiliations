@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label><!-- Automatic Affiliation Help Text --></label>
+        <label>Vink dit aan om voor Contactpersonen een automatisch een Verwante Organisatie link aan te maken wanneer deze aangemaakt worden met een verwijzing naar een Account.</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label><!-- DefaultCurrentStatus --></label>
+        <label>Current</label>
         <name>DefaultCurrentStatus</name>
     </customLabels>
     <customLabels>
-        <label><!-- DefaultFormerStatus --></label>
+        <label>Former</label>
         <name>DefaultFormerStatus</name>
     </customLabels>
     <customTabs>
-        <label>Connecties Instellingen</label>
+        <label>Verwante Organisatie Instellingen</label>
         <name>Affiliations_Settings</name>
     </customTabs>
 </Translations>

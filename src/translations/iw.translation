@@ -5,11 +5,11 @@
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
     <customLabels>
-        <label>נוכחי</label>
+        <label>Current</label>
         <name>DefaultCurrentStatus</name>
     </customLabels>
     <customLabels>
-        <label>קודם</label>
+        <label>Former</label>
         <name>DefaultFormerStatus</name>
     </customLabels>
     <customTabs>

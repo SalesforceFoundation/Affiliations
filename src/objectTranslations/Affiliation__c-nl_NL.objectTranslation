@@ -9,7 +9,7 @@
         <value><!-- Affiliation --></value>
     </caseValues>
     <fields>
-        <label><!-- Contact --></label>
+        <label>Contactpersoon</label>
         <name>Contact__c</name>
         <relationshipLabel>Verwante Organisaties</relationshipLabel>
     </fields>
@@ -18,7 +18,7 @@
         <name>Description__c</name>
     </fields>
     <fields>
-        <label>Eind Datum</label>
+        <label>Einddatum</label>
         <name>EndDate__c</name>
     </fields>
     <fields>
@@ -27,7 +27,7 @@
         <relationshipLabel>Verwante Contactpersonen</relationshipLabel>
     </fields>
     <fields>
-        <help>Indien aangevinkt, zal de verwante organisatie opgeslagen worden op het Contactpersoon record.</help>
+        <help>Indien aangevinkt, zal de Verwante Organisatie opgeslagen worden op het Contactpersoon record.</help>
         <label>Primair</label>
         <name>Primary__c</name>
     </fields>
@@ -36,7 +36,7 @@
         <name>Role__c</name>
     </fields>
     <fields>
-        <label>Start Datum</label>
+        <label>Startdatum</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
@@ -44,18 +44,18 @@
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation><!-- Current --></translation>
+            <translation>Huidig</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation><!-- Former --></translation>
+            <translation>Voormalig</translation>
         </picklistValues>
     </fields>
     <gender><!-- Neuter --></gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label>Connectie Informatie</label>
+            <label>Verwante Organisatie Informatie</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
