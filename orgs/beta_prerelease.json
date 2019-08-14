@@ -1,0 +1,12 @@
+{
+  "edition": "Developer", 
+  "orgName": "Affiliations - Prerelease Beta Test Org", 
+  "instance": "cs46",
+  "settings": {
+    "orgPreferenceSettings": {
+      "chatterEnabled": true,
+      "s1DesktopEnabled": true,
+      "disableParallelApexTesting": true
+    }
+  }
+}
