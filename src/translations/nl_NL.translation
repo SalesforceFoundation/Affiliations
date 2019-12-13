@@ -4,14 +4,6 @@
         <label>Vink dit vakje aan om Contactpersonen automatische connecties let laten ontvangen wanneer deze worden gemaakt worden met een relatie met een account.</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
-    <customLabels>
-        <label>Huidig</label>
-        <name>DefaultCurrentStatus</name>
-    </customLabels>
-    <customLabels>
-        <label>Voormalig</label>
-        <name>DefaultFormerStatus</name>
-    </customLabels>
     <customTabs>
         <label>Instellingen voor connecties</label>
         <name>Affiliations_Settings</name>

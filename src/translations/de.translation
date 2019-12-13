@@ -4,14 +4,6 @@
         <label>Aktivieren Sie dieses Kontrollkästchen, damit die Kontakte automatische Zugehörigkeiten erhalten, wenn Sie mit einer Beziehung zu einem Account erstellt werden.</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
-    <customLabels>
-        <label>Aktuell</label>
-        <name>DefaultCurrentStatus</name>
-    </customLabels>
-    <customLabels>
-        <label>Früher</label>
-        <name>DefaultFormerStatus</name>
-    </customLabels>
     <customTabs>
         <label>Zugehörigkeitseinstellungen</label>
         <name>Affiliations_Settings</name>

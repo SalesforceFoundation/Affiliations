@@ -4,14 +4,6 @@
         <label>Cochez cette case pour que les contacts reçoivent des affiliations automatiques lorsqu’ils sont créés avec une relation à un compte.</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
-    <customLabels>
-        <label>Actuels</label>
-        <name>DefaultCurrentStatus</name>
-    </customLabels>
-    <customLabels>
-        <label>Anciens</label>
-        <name>DefaultFormerStatus</name>
-    </customLabels>
     <customTabs>
         <label>Paramètres d’affiliation</label>
         <name>Affiliations_Settings</name>
