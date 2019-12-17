@@ -4,14 +4,6 @@
         <label>סמן תיבה זו כדי להעניק לאנשי קשר השתייכות אוטומטית כאשר הם נוצרים עם קשר לחשבון.</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
-    <customLabels>
-        <label>Current</label>
-        <name>DefaultCurrentStatus</name>
-    </customLabels>
-    <customLabels>
-        <label>Former</label>
-        <name>DefaultFormerStatus</name>
-    </customLabels>
     <customTabs>
         <label>הגדרות השתייכות</label>
         <name>Affiliations_Settings</name>

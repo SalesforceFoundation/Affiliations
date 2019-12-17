@@ -4,14 +4,6 @@
         <label>このボックスをオンにすると、個人が団体とのリレーションと共に作成されたときに自動アフィリエーションが適用されます。</label>
         <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
-    <customLabels>
-        <label>Current</label>
-        <name>DefaultCurrentStatus</name>
-    </customLabels>
-    <customLabels>
-        <label>Former</label>
-        <name>DefaultFormerStatus</name>
-    </customLabels>
     <customTabs>
         <label>アフィリエーション設定</label>
         <name>Affiliations_Settings</name>

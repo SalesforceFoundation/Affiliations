@@ -7,6 +7,18 @@ project:
     git:
         prefix_release: rel/
 
+tasks:
+    cleanup_translation_metadata:
+        description: Delete metadata from translation files that should not be translated.
+        class_path: tasks.modify.RemoveElementsXPath
+        options:
+            output_style: salesforce
+            elements:
+                - path: src/translations/**.translation
+                  xpath: //ns:customLabels[ns:name='DefaultCurrentStatus']|//ns:customLabels[ns:name='DefaultFormerStatus']
+                - path: src/translations/**.translation
+                  xpath: //ns:quickActions
+
 flows:
     release_beta:
         tasks:

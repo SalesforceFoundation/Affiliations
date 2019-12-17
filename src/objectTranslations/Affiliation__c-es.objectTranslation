@@ -2,11 +2,11 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Afiliación</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Afiliaciones</value>
     </caseValues>
     <fields>
         <label>Contacto</label>
@@ -18,7 +18,7 @@
         <name>Description__c</name>
     </fields>
     <fields>
-        <label>Día de finalización</label>
+        <label>Fecha de finalización</label>
         <name>EndDate__c</name>
     </fields>
     <fields>
@@ -27,16 +27,16 @@
         <relationshipLabel>Contactos afiliados</relationshipLabel>
     </fields>
     <fields>
-        <help>Si se selecciona, la cuenta en la afiliación se guardará en el contacto.</help>
+        <help>Si se selecciona, la organización de la afiliación se guardará en el registro del contacto.</help>
         <label>Principal</label>
         <name>Primary__c</name>
     </fields>
     <fields>
-        <label>Rol</label>
+        <label>Función</label>
         <name>Role__c</name>
     </fields>
     <fields>
-        <label>Día de inicio</label>
+        <label>Fecha de inicio</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
@@ -44,14 +44,14 @@
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
-            <translation>Actual</translation>
+            <translation>Vigente</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation>Anterior</translation>
+            <translation>Antiguo</translation>
         </picklistValues>
     </fields>
-    <gender><!-- Feminine --></gender>
+    <gender>Feminine</gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
@@ -59,5 +59,5 @@
             <section>Affiliation Information</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
+    <nameFieldLabel>Nombre de la afiliación</nameFieldLabel>
 </CustomObjectTranslation>

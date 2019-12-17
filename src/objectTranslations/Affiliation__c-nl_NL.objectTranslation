@@ -2,16 +2,16 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Connectie</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Connecties</value>
     </caseValues>
     <fields>
         <label>Contactpersoon</label>
         <name>Contact__c</name>
-        <relationshipLabel>Verwante Organisaties</relationshipLabel>
+        <relationshipLabel>Connecties van organisatie</relationshipLabel>
     </fields>
     <fields>
         <label>Beschrijving</label>
@@ -24,10 +24,10 @@
     <fields>
         <label>Organisatie</label>
         <name>Organization__c</name>
-        <relationshipLabel>Verwante Contactpersonen</relationshipLabel>
+        <relationshipLabel>Gelieerde contactpersonen</relationshipLabel>
     </fields>
     <fields>
-        <help>Indien aangevinkt, zal de Verwante Organisatie opgeslagen worden op het Contactpersoon record.</help>
+        <help>Indien aangevinkt, wordt de organisatie van de opgeslagen in de record Contactpersoon.</help>
         <label>Primair</label>
         <name>Primary__c</name>
     </fields>
@@ -36,11 +36,11 @@
         <name>Role__c</name>
     </fields>
     <fields>
-        <label>Startdatum</label>
+        <label>Begindatum</label>
         <name>StartDate__c</name>
     </fields>
     <fields>
-        <label><!-- Status --></label>
+        <label>Status</label>
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
@@ -51,13 +51,13 @@
             <translation>Voormalig</translation>
         </picklistValues>
     </fields>
-    <gender><!-- Neuter --></gender>
+    <gender>Feminine</gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label>Verwante Organisatie Informatie</label>
+            <label>Gegevens over connectie</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
+    <nameFieldLabel>Naam van connectie</nameFieldLabel>
 </CustomObjectTranslation>

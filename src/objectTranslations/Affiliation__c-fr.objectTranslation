@@ -2,16 +2,16 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Affiliation</value>
     </caseValues>
     <caseValues>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Affiliations</value>
     </caseValues>
     <fields>
         <label>Contact</label>
         <name>Contact__c</name>
-        <relationshipLabel>Affiliations de l&apos;Organisation</relationshipLabel>
+        <relationshipLabel>Affiliations de l&apos;organisation</relationshipLabel>
     </fields>
     <fields>
         <label>Description</label>
@@ -22,12 +22,12 @@
         <name>EndDate__c</name>
     </fields>
     <fields>
-        <label>Compte</label>
+        <label>Organisation</label>
         <name>Organization__c</name>
         <relationshipLabel>Contacts affiliés</relationshipLabel>
     </fields>
     <fields>
-        <help>Si coché, l’organisation de l’affiliation sera stockée sur l’enregistrement du contact.</help>
+        <help>Si cette case est cochée, l’organisation de l’affiliation est stockée dans l’enregistrement du contact.</help>
         <label>Principal</label>
         <name>Primary__c</name>
     </fields>
@@ -48,17 +48,17 @@
         </picklistValues>
         <picklistValues>
             <masterLabel>Former</masterLabel>
-            <translation>Précédent</translation>
+            <translation>Ancien</translation>
         </picklistValues>
     </fields>
-    <gender><!-- Masculine --></gender>
+    <gender>Feminine</gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
-            <label>Information de l&apos;affiliation</label>
+            <label>Informations sur l&apos;affiliation</label>
             <section>Affiliation Information</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
-    <startsWith><!-- Consonant --></startsWith>
+    <nameFieldLabel>Nom de l’affiliation</nameFieldLabel>
+    <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>

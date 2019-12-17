@@ -3,42 +3,42 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeit</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeiten</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeit</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeiten</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeit</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeiten</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeit</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliation --></value>
+        <value>Zugehörigkeiten</value>
     </caseValues>
     <fields>
         <label>Kontakt</label>
@@ -72,7 +72,7 @@
         <name>StartDate__c</name>
     </fields>
     <fields>
-        <label><!-- Status --></label>
+        <label>Status</label>
         <name>Status__c</name>
         <picklistValues>
             <masterLabel>Current</masterLabel>
@@ -83,7 +83,7 @@
             <translation>Früher</translation>
         </picklistValues>
     </fields>
-    <gender><!-- Neuter --></gender>
+    <gender>Feminine</gender>
     <layouts>
         <layout>Affiliation Layout</layout>
         <sections>
@@ -91,5 +91,5 @@
             <section>Affiliation Information</section>
         </sections>
     </layouts>
-    <nameFieldLabel><!-- Affiliation Name --></nameFieldLabel>
+    <nameFieldLabel>Zugehörigkeitsname</nameFieldLabel>
 </CustomObjectTranslation>
