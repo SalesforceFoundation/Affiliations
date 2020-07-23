@@ -5,9 +5,9 @@
         <value>アフィリエーション</value>
     </caseValues>
     <fields>
-        <label>個人</label>
+        <label>取引先責任者</label>
         <name>Contact__c</name>
-        <relationshipLabel>関係する団体</relationshipLabel>
+        <relationshipLabel>団体アフィリエーション</relationshipLabel>
     </fields>
     <fields>
         <label>説明</label>
@@ -20,10 +20,10 @@
     <fields>
         <label>団体</label>
         <name>Organization__c</name>
-        <relationshipLabel>関係する個人</relationshipLabel>
+        <relationshipLabel>関係する取引先責任者</relationshipLabel>
     </fields>
     <fields>
-        <help>オンの場合、アフィリエーション団体は個人レコードに保存されます。</help>
+        <help>オンの場合、アフィリエーション団体は取引先責任者レコードに保存されます。</help>
         <label>主</label>
         <name>Primary__c</name>
     </fields>
