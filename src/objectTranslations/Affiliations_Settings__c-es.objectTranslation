@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <caseValues>
-        <plural>false</plural>
-        <value><!-- Affiliations Settings --></value>
-    </caseValues>
-    <caseValues>
-        <plural>true</plural>
-        <value><!-- Affiliations Settings --></value>
-    </caseValues>
-    <fields>
-        <help>Crea o actualiza afiliaciones para contactos conectados con cuentas de la organización cuando se modifica el campo Organización o el campo Afiliación principal.</help>
-        <label>Gestión de afiliaciones automáticas</label>
-        <name>Automatic_Affiliation_Creation_Turned_On__c</name>
-    </fields>
-    <gender><!-- Feminine --></gender>
+  <fields>
+    <name>Automatic_Affiliation_Creation_Turned_On__c</name>
+    <help>Crea o actualiza afiliaciones para contactos conectados con cuentas de la organización cuando se modifica el campo Organización o el campo Afiliación principal.</help>
+    <label>Gestión de afiliaciones automáticas</label>
+  </fields>
+  <gender>Feminine</gender>
+  <caseValues>
+    <plural>false</plural>
+    <value>Configuración de Afiliaciones</value>
+  </caseValues>
+  <caseValues>
+    <plural>true</plural>
+    <value>Configuraciones de Afiliaciones</value>
+  </caseValues>
 </CustomObjectTranslation>

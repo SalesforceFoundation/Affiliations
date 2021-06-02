@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label>Marque esta casilla para que los contactos reciban automáticamente una afiliación cuando se creen con una relación con una cuenta.</label>
         <name>Automatic_Affiliation_Help_Text</name>
+        <label>Marque esta casilla para que los contactos reciban automáticamente una afiliación cuando se creen con una relación con una cuenta.</label>
+    </customLabels>
+    <customLabels>
+        <name>DefaultCurrentStatus</name>
+        <label>Vigente</label>
+    </customLabels>
+    <customLabels>
+        <name>DefaultFormerStatus</name>
+        <label>Antiguo</label>
     </customLabels>
     <customTabs>
-        <label>Configuración de afiliaciones</label>
         <name>Affiliations_Settings</name>
+        <label>Configuración de afiliaciones</label>
     </customTabs>
-    </Translations>
+</Translations>
