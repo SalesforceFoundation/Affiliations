@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <name>Automatic_Affiliation_Help_Text</name>
         <label>Vink dit vakje aan om Contactpersonen automatische connecties let laten ontvangen wanneer deze worden gemaakt worden met een relatie met een account.</label>
-    </customLabels>
-    <customLabels>
-        <name>DefaultCurrentStatus</name>
-        <label>Huidig</label>
-    </customLabels>
-    <customLabels>
-        <name>DefaultFormerStatus</name>
-        <label>Voormalig</label>
+        <name>Automatic_Affiliation_Help_Text</name>
     </customLabels>
     <customTabs>
-        <name>Affiliations_Settings</name>
         <label>Instellingen voor connecties</label>
+        <name>Affiliations_Settings</name>
     </customTabs>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
 </Translations>

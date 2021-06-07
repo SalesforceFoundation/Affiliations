@@ -4,14 +4,6 @@
         <name>Automatic_Affiliation_Help_Text</name>
         <label>Check this box to have Contacts receive automatic affiliations when they are created with a relationship to an Account.</label>
     </customLabels>
-    <customLabels>
-        <name>DefaultCurrentStatus</name>
-        <label>Current</label>
-    </customLabels>
-    <customLabels>
-        <name>DefaultFormerStatus</name>
-        <label>Former</label>
-    </customLabels>
     <customTabs>
         <name>Affiliations_Settings</name>
         <label>Affiliations Settings</label>

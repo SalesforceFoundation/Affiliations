@@ -1,67 +1,63 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-  <fields>
-    <name>Contact__c</name>
-    <relationshipLabel>Afiliaciones de la organización</relationshipLabel>
-    <label>Contacto</label>
-  </fields>
-  <fields>
-    <name>Description__c</name>
-    <label>Descripción</label>
-  </fields>
-  <fields>
-    <name>EndDate__c</name>
-    <label>Fecha de finalización</label>
-  </fields>
-  <fields>
-    <name>Organization__c</name>
-    <relationshipLabel>Contactos afiliados</relationshipLabel>
-    <label>Cuenta</label>
-  </fields>
-  <fields>
-    <name>Primary__c</name>
-    <help>Si se selecciona, la organización de la afiliación se guardará en el registro del contacto.</help>
-    <label>Principal</label>
-  </fields>
-  <fields>
-    <name>Role__c</name>
-    <label>Función</label>
-  </fields>
-  <fields>
-    <name>StartDate__c</name>
-    <label>Fecha de inicio</label>
-  </fields>
-  <fields>
-    <name>Status__c</name>
-    <label>Estado</label>
-    <picklistValues>
-      <masterLabel>Current</masterLabel>
-      <translation>Vigente</translation>
-    </picklistValues>
-    <picklistValues>
-      <masterLabel>Former</masterLabel>
-      <translation>Antiguo</translation>
-    </picklistValues>
-  </fields>
-  <layouts>
-    <layout>Affiliation Layout</layout>
-    <sections>
-      <label>Información de la afiliación</label>
-      <section>Affiliation Information</section>
-    </sections>
-  </layouts>
-  <nameFieldLabel>Nombre de la afiliación</nameFieldLabel>
-  <standardFields>
-    <name>Name</name>
-    <label>Nombre de la afiliación</label>
-  </standardFields>
-  <gender>Feminine</gender>
-  <caseValues>
-    <plural>false</plural>
-    <value>Afiliación</value>
-  </caseValues>
-  <caseValues>
-    <plural>true</plural>
-    <value>Afiliaciones</value>
-  </caseValues>
+    <caseValues>
+        <plural>false</plural>
+        <value>Afiliación</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Afiliaciones</value>
+    </caseValues>
+    <fields>
+        <label>Contacto</label>
+        <name>Contact__c</name>
+        <relationshipLabel>Afiliaciones de la organización</relationshipLabel>
+    </fields>
+    <fields>
+        <label>Descripción</label>
+        <name>Description__c</name>
+    </fields>
+    <fields>
+        <label>Fecha de finalización</label>
+        <name>EndDate__c</name>
+    </fields>
+    <fields>
+        <label>Cuenta</label>
+        <name>Organization__c</name>
+        <relationshipLabel>Contactos afiliados</relationshipLabel>
+    </fields>
+    <fields>
+        <help>Si se selecciona, la organización de la afiliación se guardará en el registro del contacto.</help>
+        <label>Principal</label>
+        <name>Primary__c</name>
+    </fields>
+    <fields>
+        <label>Función</label>
+        <name>Role__c</name>
+    </fields>
+    <fields>
+        <label>Fecha de inicio</label>
+        <name>StartDate__c</name>
+    </fields>
+    <fields>
+        <label>Estado</label>
+        <name>Status__c</name>
+        <picklistValues>
+            <masterLabel>Current</masterLabel>
+            <translation>Vigente</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Former</masterLabel>
+            <translation>Antiguo</translation>
+        </picklistValues>
+    </fields>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Affiliation Layout</layout>
+        <sections>
+            <label>Información de la afiliación</label>
+            <section>Affiliation Information</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Nombre de la afiliación</nameFieldLabel>
 </CustomObjectTranslation>
