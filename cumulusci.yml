@@ -20,10 +20,3 @@ tasks:
                   xpath: //ns:customLabels[ns:name='DefaultCurrentStatus']|//ns:customLabels[ns:name='DefaultFormerStatus']
                 - path: src/translations/**.translation
                   xpath: //ns:quickActions
-
-flows:
-    release_beta:
-        tasks:
-            # Ignore failures on release notes generation
-            3:
-                ignore_failure: True
