@@ -3,47 +3,47 @@
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellung</value>
     </caseValues>
     <caseValues>
         <caseType>Nominative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellungen</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellung</value>
     </caseValues>
     <caseValues>
         <caseType>Accusative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellungen</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>false</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellung</value>
     </caseValues>
     <caseValues>
         <caseType>Genitive</caseType>
         <plural>true</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellungen</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>false</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellung</value>
     </caseValues>
     <caseValues>
         <caseType>Dative</caseType>
         <plural>true</plural>
-        <value><!-- Affiliations Settings --></value>
+        <value>Zugehörigkeitseinstellungen</value>
     </caseValues>
     <fields>
         <help>Erstellen oder aktualisieren Sie Zugehörigkeiten für Kontakte, die mit den Organisation-Accounts verbunden sind, wenn in deren Feldern &quot;Organisation&quot; oder &quot;Primäre Zugehörigkeit&quot; Änderungen vorgenommen werden.</help>
         <label>Autom. Verwaltung der Zugehörigkeiten</label>
         <name>Automatic_Affiliation_Creation_Turned_On__c</name>
     </fields>
-    <gender><!-- Neuter --></gender>
+    <gender>Feminine</gender>
 </CustomObjectTranslation>

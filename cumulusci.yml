@@ -20,3 +20,5 @@ tasks:
                   xpath: //ns:customLabels[ns:name='DefaultCurrentStatus']|//ns:customLabels[ns:name='DefaultFormerStatus']
                 - path: src/translations/**.translation
                   xpath: //ns:quickActions
+                - path: src/translations/**.translation
+                  xpath: //ns:reportTypes[ns:name='screen_flows_prebuilt_crt']
