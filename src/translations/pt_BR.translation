@@ -4,14 +4,6 @@
         <name>Automatic_Affiliation_Help_Text</name>
         <label>Marque esta caixa para que os contatos recebam afiliações automáticas quando são criados com um relacionamento com uma Conta.</label>
     </customLabels>
-    <customLabels>
-        <name>DefaultCurrentStatus</name>
-        <label>Atual</label>
-    </customLabels>
-    <customLabels>
-        <name>DefaultFormerStatus</name>
-        <label>Anterior</label>
-    </customLabels>
     <customTabs>
         <name>Affiliations_Settings</name>
         <label>Configurações de afiliações</label>
