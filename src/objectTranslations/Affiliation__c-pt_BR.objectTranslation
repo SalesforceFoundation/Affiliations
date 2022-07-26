@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fields>
+    <name>Contact__c</name>
+    <relationshipLabel>Afiliações da organização</relationshipLabel>
+    <label>Contato</label>
+  </fields>
+  <fields>
+    <name>Description__c</name>
+    <label>Descrição</label>
+  </fields>
+  <fields>
+    <name>EndDate__c</name>
+    <label>Data de término</label>
+  </fields>
+  <fields>
+    <name>Organization__c</name>
+    <relationshipLabel>Contatos afiliados</relationshipLabel>
+    <label>Organização</label>
+  </fields>
+  <fields>
+    <name>Primary__c</name>
+    <help>Se marcado, a organização da afiliação será armazenada no registro de contato.</help>
+    <label>Principal</label>
+  </fields>
+  <fields>
+    <name>Role__c</name>
+    <label>Função</label>
+  </fields>
+  <fields>
+    <name>StartDate__c</name>
+    <label>Data de início</label>
+  </fields>
+  <fields>
+    <name>Status__c</name>
+    <label>Status</label>
+    <picklistValues>
+      <masterLabel>Current</masterLabel>
+      <translation>Atual</translation>
+    </picklistValues>
+    <picklistValues>
+      <masterLabel>Former</masterLabel>
+      <translation>Anterior</translation>
+    </picklistValues>
+  </fields>
+  <layouts>
+    <layout>Affiliation Layout</layout>
+    <sections>
+      <label>Informações de afiliação</label>
+      <section>Affiliation Information</section>
+    </sections>
+  </layouts>
+  <nameFieldLabel>Nome da afiliação</nameFieldLabel>
+  <standardFields>
+    <name>Name</name>
+    <label>Nome da afiliação</label>
+  </standardFields>
+  <gender>Feminine</gender>
+  <caseValues>
+    <plural>false</plural>
+    <value>Afiliação</value>
+  </caseValues>
+  <caseValues>
+    <plural>true</plural>
+    <value>Afiliações</value>
+  </caseValues>
+</CustomObjectTranslation>
